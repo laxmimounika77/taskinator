@@ -214,6 +214,7 @@
   .select-status option {
     font-weight: normal;
     font-size: 2rem;
+    
   }
   
   @media screen and (max-width: 980px) {
